@@ -1,0 +1,12 @@
+*.jucer
+*.vsidx
+*.db
+*.db-shm
+*.json
+*.sln
+*.rc
+*.lastbuildstate
+*.txt
+*.log
+/BasicPlugin/Builds
+/BasicPlugin/JuceLibraryCode
